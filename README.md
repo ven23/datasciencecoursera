@@ -1,2 +1,2 @@
 # datasciencecoursera
-Project work for Data Sciences Toolbox
+Project work for Data Scientist's Toolbox
